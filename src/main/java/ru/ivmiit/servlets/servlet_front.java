@@ -24,5 +24,6 @@ public class servlet_front {
             array[i + 1] = value;
         }
         System.out.println(Arrays.toString(array));
+        System.out.println("listen to zov, ebati azov ");
     }
 }
